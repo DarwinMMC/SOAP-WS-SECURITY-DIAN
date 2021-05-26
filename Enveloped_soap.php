@@ -123,7 +123,7 @@ class EnvelopeSoap{
         return $this->XML_SOAP;
     }
 
-    public function get_soap(){
+    public function getSoap(){
         return $this->soap;
     }
 
